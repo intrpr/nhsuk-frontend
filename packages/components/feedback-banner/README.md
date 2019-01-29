@@ -7,6 +7,8 @@ To discuss or contribute to this component, visit the [GitHub issue for this com
 For this component to work, you need to make sure you include the required JavaScript. You can either include the
 compiled JavaScript for all components `nhsuk.min.js` or the individual component JavaScript `feedback-banner.js`.
 
+Feedback banner should be used below footer in templates for sticky scroll JS to work.
+
 ## Quick start examples
 
 ### Feedback banner
